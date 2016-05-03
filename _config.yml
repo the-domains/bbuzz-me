@@ -1,7 +1,7 @@
 name: bbuzz.me
 favicon: null
-layout_spectrum: 0.6314879283308983
-typography_spectrum: 0.8682206713128835
+layout_spectrum: 0.84287
+typography_spectrum: 0.72177
 title: Online Magazine
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9971307737287134
+    - '#ffffff'
+    - '#0b0b08'
+    - '#004789'
+    - '#0094fc'
+    - '#999998'
+  brandStrength: 1
   lightness: 0.24194165947847068
   saturation: 0.23797657643444836
   rhythmicContrast: 0.7751811165362597
