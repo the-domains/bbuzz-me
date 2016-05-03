@@ -4,8 +4,22 @@
         <description><![CDATA[Online Magazine]]></description>
         <link>https://thegrid.ai/bbuzz-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 21:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 22:05:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bbuzz-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bbuzz.me blog]]></title>
+            <description><![CDATA[<article><h1>bbuzz.me blog</h1><p>Welcome to bbuzz.me. We hope you enjoy!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/990057c56d6554bafe18bf63c4df95e55ffd81d1.png"></article>]]></description>
+            <link>https://thegrid.ai/bbuzz-me/bbuzzme-blog/index.html</link>
+            <guid isPermaLink="false">c26bbf0e-1724-4e24-87c2-a72e29a99eba</guid>
+            <pubDate>Tue, 03 May 2016 22:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.entrepreneur.com/article/273464</p>]]></description>
+            <link>https://thegrid.ai/bbuzz-me/httpswwwentrepreneurcomarticle273464/index.html</link>
+            <guid isPermaLink="false">0b27fe05-f9b3-4ddb-b25f-b67d3523eaa5</guid>
+            <pubDate>Tue, 03 May 2016 21:56:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[test home]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ee3fcbf-3c7f-4538-9d83-aa3d98410c77.jpg">]]></description>
