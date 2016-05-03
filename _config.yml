@@ -1,0 +1,28 @@
+name: bbuzz.me
+favicon: null
+layout_spectrum: 0.6314879283308983
+typography_spectrum: 0.8682206713128835
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9971307737287134
+  lightness: 0.24194165947847068
+  saturation: 0.23797657643444836
+  rhythmicContrast: 0.7751811165362597
+purpose: []
